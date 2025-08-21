@@ -16,8 +16,8 @@
     background: radial-gradient(circle, rgba(245, 135, 182, 1) 0%, rgba(198, 148, 233, 1) 100%)!important;
 }
 
-.corPreto a{
-    color: rgb(255, 255, 255)
+.corPreto a :focus{
+    color: rgb(185, 66, 66)
 }
 
 .corPreto button{
